@@ -1,2 +1,2 @@
-# statistical_problems
+# statistical problems
 Discussion of various statistical problems that can occur in data analysis
